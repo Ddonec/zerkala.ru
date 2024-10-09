@@ -36,11 +36,11 @@ $APPLICATION->SetTitle("Зеркала на заказ в Москве - изг�
                 <div class="banner__main">
                     <div class="banner__ab">
                         <a href="/" class="banner__logo">
-                            <img src="/local/templates/zerkala/assets/img/svg/logo.svg" alt="">
+                            <img src="/local/templates/zerkala/assets/img/svg/logo.svg" alt="изготовление зеркал в москве">
                         </a> 
 <!--                        <div class="banner__address" onclick="scrollToTarget()"> -->
                         <a class="banner__address" href="#map">
-                            <img src="/local/templates/zerkala/assets/img/svg/ic-mp.svg" alt="">
+                            <img src="/local/templates/zerkala/assets/img/svg/ic-mp.svg" alt="московская зеркальная фабрика">
                             <span><?= $GLOBALS["CONTACTS"]["ADDRESS"] ?></span>
                         </a>
                         <h1 style="line-height: 1.4;" class="banner__tx">ПРОИЗВОДСТВО ИЗДЕЛИЙ ИЗ ЗЕРКАЛ С 1961 ГОДА</h1>
@@ -155,7 +155,7 @@ margin-top: 20px !important;
 <a href="/sale/" class="" title="">
                            <div class="bnr__slider-item">
                                 <div class="bnr__slider-bg">
-                                    <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/bn-bg.jpg" alt="">
+                                    <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/bn-bg.jpg" alt="производство зеркала">
                                 </div>
                                 <div class="bnr__slider-l" style="left: 13px;">
                                     <div class="bnr__slider-title"><p style="margin-left: -60px;font-size: 48px;text-transform: none;" class="bnr__slider-title-p">Товар недели! </p></div>
@@ -168,7 +168,7 @@ margin-top: 20px !important;
                                     <div href="/sale/" class="open-modal bt bt-bord-wh bt-bgg bt-fs">ПОДРОБНЕЕ</div> 
                                 </div>
                                 <div class="bnr__slider-r">
-                                    <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/content/bnr-img.jpg" alt="">
+                                    <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/content/bnr-img.jpg" alt="изготовление зеркал в москве">
                                 </div>
                             </div>
 </a>
@@ -380,11 +380,11 @@ margin-top: 20px !important;
                 <div class="abt__i">
                     <div class="abt__l">
                         <h2>О КОМПАНИИ</h2>
-                        <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/abt-img1.jpg" alt="">
+                        <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/abt-img1.jpg" alt="мастерская зеркал в москве">
                     </div>
                     <div class="abt__r">
-                        <img alt="Зеркала на заказ в москве" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/abt-img2.jpg" alt="">
-                        <img title="Огромный выбор зеркал в Москве. На рынке уже 60 лет" alt="Огромный выбор зеркал в Москве" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/abt-img3.jpg" alt="">
+                        <img alt="Зеркала на заказ в москве" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/abt-img2.jpg" alt="зеркала заказать москва">
+                        <img title="Огромный выбор зеркал в Москве. На рынке уже 60 лет" alt="Изготовление зеркал в москве" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/abt-img3.jpg">
                     </div>
                 </div>
 

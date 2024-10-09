@@ -110,16 +110,16 @@
     <div class="container">
         <div class="header-mob__inner">
             <a href="/" class="header-mob__logo">
-                <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/logo.svg" alt="">
+                <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/logo.svg" alt="Мастерская зеркал в Москве">
             </a>
             <div class="header-mob__r">
                 <a href="#ordPrice" class="open-modal header-mob__link"> <img
-                            src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/calc.svg" alt=""></a>
+                            src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/calc.svg" alt="зеркаа в размер"></a>
                 <a href="tel:<?= $GLOBALS["CONTACTS"]["PHONE"] ?>" class="header-mob__link ic1"> <img
-                            src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/ic-hd1.svg" alt=""></a>
+                            src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/ic-hd1.svg" alt="зеркала заказать"></a>
                 <div class="header-mob-drop">
                 	<a href="javascript:void(0)" class="header-mob__link ic2">
-                		<img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/ic-hd2.svg" alt="">
+                		<img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/ic-hd2.svg" alt="зеркало кабинет">
                 	</a>
                 	<div class="header__drop-main header__drop-mob">
                         <a href="http://mzf-zakaz.ru/" class="bt bt-bord-wh open-modal">ЛИЧНЫЙ КАБИНЕТ КЛИЕНТА</a>
@@ -141,7 +141,7 @@
             <div class="header__address">
                     <?php if ($APPLICATION->GetCurDir() != "/"): ?>
                 <a href="/" class="header__logo">
-                        <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/logo.svg" alt="">
+                        <img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/svg/logo.svg" alt="Мастерская зеркал">
                 </a>
                     <?php endif; ?>
                 <?php if ($APPLICATION->GetCurDir() != "/"): ?>
