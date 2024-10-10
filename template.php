@@ -14,7 +14,7 @@ $this->setFrameMode(true);
 ?>
 <section class="nw">
     <div class="nw__bg">
-        <img loading="lazy" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/nw-bg.jpg" alt="">
+        <img loading="lazy" src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/nw-bg.jpg" alt="Зеркало для дома">
     </div>
     <div class="container">
         <div class="title-main">
@@ -23,7 +23,7 @@ $this->setFrameMode(true);
         </div>
         <div class="nw__inner">
             <div class="nw__dz">
-				<a href="https://dzen.ru/mzf___17" target="_blank"><img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/dz1.jpg" alt=""></a>
+				<a href="https://dzen.ru/mzf___17" target="_blank"><img src="<?= SITE_TEMPLATE_PATH ?>/assets/img/layout/dz1.jpg" alt="Яндекс дзен зеркала"></a>
             </div>
             <div class="nw__slider js-nw-slider">
                 <div class="swiper-wrapper">
